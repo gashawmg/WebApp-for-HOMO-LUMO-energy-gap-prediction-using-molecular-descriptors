@@ -1,0 +1,10 @@
+rdkit-pypi==2022.9.5
+lightgbm==4.1.0
+scikit-learn==1.3.1
+matplotlib==3.7.3 
+numpy==1.24.4
+streamlit==1.27.1s
+mols2grid==0.2.2
+pandas==1.3.4
+Pillow==10.0.0
+seaborn==0.11.2
